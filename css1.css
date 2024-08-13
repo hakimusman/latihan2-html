@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(14, 55, 240);
+}
+h1{
+    color: rgba(226, 17, 17, 0.932);
+}
+p{
+    color: aqua;
+}
+.css1{
+    padding-top: 20px;
+    padding-right: 100px;
+}
+#css2{
+    padding-top: 100px;
+    padding-right: 100px;
+}
